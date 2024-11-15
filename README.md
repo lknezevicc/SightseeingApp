@@ -33,14 +33,14 @@ To run the application locally, follow these steps:
    ```
    
 2. **Open the project in IntelliJ IDEA**
-	•	Import the project as a Maven project.
-	•	Ensure that the H2 in-memory database dependency is correctly installed.
+   - Import the project as a Maven project.
+   - Ensure that the H2 in-memory database dependency is correctly installed.
 
-3. **Add H2 in-memory database as a data source**
+4. **Add H2 in-memory database as a data source**
    
-4. **Run the application:**
-	•	In IntelliJ, navigate to the App main class in the src/main/java directory.
-	•	Right-click the class and select Run ‘App’.
+5. **Run the application:**
+   - In IntelliJ, navigate to the App main class in the src/main/java directory.
+   - Right-click the class and select Run ‘App’.
 
-5. **Test API Endpoints:**
-	•	To test the API, you can use a tool like [Postman](https://www.postman.com/).
+7. **Test API Endpoints:**
+   - To test the API, you can use a tool like [Postman](https://www.postman.com/).
